@@ -16,10 +16,12 @@ public class Cliente {
     }
 
     public Cliente(String nome, String cpf, String dataNascimento, String telefone) {
+       
         this.nome = nome;
         this.cpf = cpf;
         this.dataNascimento = dataNascimento;
         this.telefone = telefone;
+        
     }
     
     
