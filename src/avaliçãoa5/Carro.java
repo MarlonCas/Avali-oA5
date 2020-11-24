@@ -21,13 +21,6 @@ public class Carro extends Veiculos {
         
     }
 
-    public void horarioCheckin(){
-        
-    }
-    
-    public void horarioCheckout(){
-        
-    }
 
 }
 

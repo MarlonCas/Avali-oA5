@@ -19,14 +19,6 @@ public class Moto extends Veiculos {
     public void checkout(){
         
     }
-
-    public void horarioCheckin(){
-        
-    }
-    
-    public void horarioCheckout(){
-        
-    }
-    
+   
     
 }
