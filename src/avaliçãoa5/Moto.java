@@ -12,7 +12,7 @@ public class Moto extends Veiculos {
     
     }
     
-    public void chekin(int capacete){
+    public void checkin(int capacete){
         this.capacete = capacete;
     }
     
